@@ -8,6 +8,3 @@ redirect_from:
   - /about.html
 ---
 
-To be updated
-======
-to be updated
