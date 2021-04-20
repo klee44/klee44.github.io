@@ -5,6 +5,26 @@ author_profile: true
 ---
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=KL89hVQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+
+Conference
+=====
+[1] Kookjin Lee, Nathaniel A. Trask, Ravi G. Patel, Mamikon A. Gulian, and Eric C. Cyr. Partition of unity
+networks: deep hp-approximation, 2020 - accepted, AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) [[arXiv]](https://arxiv.org/abs/2101.11256)
+
+[2] Noseong Park, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Jinseong Jeon, Duanshun Li, Kookjin Lee, and Jing Liu. Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets, 2020 - accepted SIAM International Conference on Data Mining (SDM)
+
+[3] Kookjin Lee and Kevin Carlberg. Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws. Accepted, 35th AAAI Conference on Artificial Intelligence (AAAI) [[arXiv]](https://arxiv.org/abs/1909.09754)
+
+[4] Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park. DPM: A novel training method for physics-informed neural networks in extrapolation, 2020 - accepted, 35th AAAI Conference on Artificial Intelligence (AAAI) [[arXiv]](https://arxiv.org/abs/2012.02681)
+
+[5] Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, and Soonhyeon Kwon. Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients. In 2019 IEEE International Conference on Big Data (Big Data), pages 1181–1186. IEEE, 2019  [[Paper]](https://ieeexplore.ieee.org/document/9005966)
+
+[6] Hyunjoong Kang, Sanghyun Hong, Kookjin Lee, Noseong Park, and Soonhyun Kwon. On integrating knowledge graph embedding into sparql query processing. In 2018 IEEE International Conference on Web Services (ICWS), pages 371–374. IEEE, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8456381)
+
+[7] Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Jaegul Choo, David Keetae Park, Tanmoy Chakraborty, Hongkyu Park, and Youngmin Kim. MMGAN: Manifold-matching generative adversarial networks. In 2018 24th International Conference on Pattern Recognition (ICPR), pages 1343–1348. IEEE, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8545881)
+
+[8] Kookjin Lee, JaeSheung Shin, Yongwoo Cho, Kab Seok Ko, Dan Keun Sung, and Heonshik Shin. A group-based communication scheme based on the location information of MTC devices in cellular networks. In 2012 IEEE International Conference on Communications (ICC), pages 4899–4903. IEEE, 2012 [[Paper]](https://ieeexplore.ieee.org/document/6364277)
+
 Jounal publications
 =====
 [1] Kookjin Lee and Kevin T Carlberg. Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders. Journal of Computational Physics, 404:108973, 2020. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999119306783?casa_token=02NNBzIRGlMAAAAA:BpGdU2WMfe_xIapkW7gyG-eNaxYVSTnv0UcVKofU5iWhR9mCIVkXf9HvciaLJ1W5pPfVXLgC8Q)[[arXiv]](https://arxiv.org/pdf/1812.08373.pdf) 
