@@ -59,17 +59,17 @@ Kookjin Lee, Howard C Elman, and Bedřich Sousedík<br/>
 SIAM/ASA Journal on Uncertainty Quantification (JUQ), 7(4):1275–1300, 2019.<br/> 
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/17M1151912)[[arXiv]](https://arxiv.org/abs/1710.05812)
 
--<b>Inexact methods for symmetric stochastic eigenvalue problems</b><br/>
+- <b>Inexact methods for symmetric stochastic eigenvalue problems</b><br/>
 Kookjin Lee and Bedřich Sousedík<br/>
 SIAM/ASA Journal on Uncertainty Quantification, 6(4):1744–1776, 2018.<br/> 
 [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/18M1176026?casa_token=PIpEYkE2d84AAAAA:S8t3dlwEj_4B4C4JIgj2WsDWkb-fOpi4TGSUVAxwpkUa0Pyib3xI50v1H9F3m7bkiB2limKC4A)[[arXiv]](https://arxiv.org/abs/1811.00745) 
 
--<b>Stochastic least-squares Petrov–Galerkin method for parameterized linear systems</b><br/>  
+- <b>Stochastic least-squares Petrov–Galerkin method for parameterized linear systems</b><br/>  
 Kookjin Lee, Kevin Carlberg, and Howard C Elman<br/>
 SIAM/ASA Journal on Uncertainty Quantification (JUQ), 6(1):374–396, 2018.<br/>
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/17M1110729)[[arXiv]](https://arxiv.org/abs/1701.01492)
 
--<b>A preconditioned low-rank projection method with a rank-reduction scheme for stochastic partial differential equations.</b><br/>
+- <b>A preconditioned low-rank projection method with a rank-reduction scheme for stochastic partial differential equations.</b><br/>
 Kookjin Lee and Howard C Elman<br/>
 SIAM Journal on Scientific Computing (SISC), 39(5):S828–S850, 2017.<br/>
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/16M1075582)[[arXiv]](https://arxiv.org/abs/1605.05297)

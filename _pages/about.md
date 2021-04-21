@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining [School of Computing, Informatics, and Decision Systems Engineering](https://cidse.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/) as an assistant professor. I am generally interested in deep learning, representation learning, and dynamical systems.  
+I will be joining [School of Computing, Informatics, and Decision Systems Engineering](https://cidse.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/) as an assistant professor in summer 2021. I am generally interested in deep learning, representation learning, and dynamical systems.  
