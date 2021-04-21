@@ -23,17 +23,29 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 [[arXiv]](https://arxiv.org/abs/1909.09754)
 
 - <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
-Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park. 
+Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park.<br/> 
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 [[arXiv]](https://arxiv.org/abs/2012.02681)
 
-[5] Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, and Soonhyeon Kwon. Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients. In 2019 IEEE International Conference on Big Data (Big Data), pages 1181–1186. IEEE, 2019  [[Paper]](https://ieeexplore.ieee.org/document/9005966)
+- <b>Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients</b><br/> 
+Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, and Soonhyeon Kwon.<br/> 
+IEEE International Conference on Big Data (Big Data), 2019<br/>
+[[Paper]](https://ieeexplore.ieee.org/document/9005966)
 
-[6] Hyunjoong Kang, Sanghyun Hong, Kookjin Lee, Noseong Park, and Soonhyun Kwon. On integrating knowledge graph embedding into sparql query processing. In 2018 IEEE International Conference on Web Services (ICWS), pages 371–374. IEEE, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8456381)
+- <b>On integrating knowledge graph embedding into sparql query processing</b><br/>
+Hyunjoong Kang, Sanghyun Hong, Kookjin Lee, Noseong Park, and Soonhyun Kwon.<br/> 
+IEEE International Conference on Web Services (ICWS), 2018 <br/>
+[[Paper]](https://ieeexplore.ieee.org/document/8456381)
 
-[7] Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Jaegul Choo, David Keetae Park, Tanmoy Chakraborty, Hongkyu Park, and Youngmin Kim. MMGAN: Manifold-matching generative adversarial networks. In 2018 24th International Conference on Pattern Recognition (ICPR), pages 1343–1348. IEEE, 2018 [[Paper]](https://ieeexplore.ieee.org/document/8545881)
+- <b>MMGAN: Manifold-matching generative adversarial networks</b><br/>
+Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Jaegul Choo, David Keetae Park, Tanmoy Chakraborty, Hongkyu Park, and Youngmin Kim.<br/> 
+International Conference on Pattern Recognition (ICPR), 2018<br/>
+[[Paper]](https://ieeexplore.ieee.org/document/8545881)
 
-[8] Kookjin Lee, JaeSheung Shin, Yongwoo Cho, Kab Seok Ko, Dan Keun Sung, and Heonshik Shin. A group-based communication scheme based on the location information of MTC devices in cellular networks. In 2012 IEEE International Conference on Communications (ICC), pages 4899–4903. IEEE, 2012 [[Paper]](https://ieeexplore.ieee.org/document/6364277)
+- <b> A group-based communication scheme based on the location information of MTC devices in cellular networks</b><br/>
+Kookjin Lee, JaeSheung Shin, Yongwoo Cho, Kab Seok Ko, Dan Keun Sung, and Heonshik Shin.<br/>
+IEEE International Conference on Communications (ICC), 2012<br/>
+[[Paper]](https://ieeexplore.ieee.org/document/6364277)
 
 Jounal publications
 =====
