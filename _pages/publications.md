@@ -13,11 +13,19 @@ Kookjin Lee, Nathaniel A. Trask, Ravi G. Patel, Mamikon A. Gulian, and Eric C. C
 AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) <br/> 
 [[arXiv]](https://arxiv.org/abs/2101.11256)
 
-[2] Noseong Park, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Jinseong Jeon, Duanshun Li, Kookjin Lee, and Jing Liu. Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets, 2020 - accepted SIAM International Conference on Data Mining (SDM)
+- <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b><br/>
+Noseong Park, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Jinseong Jeon, Duanshun Li, Kookjin Lee, and Jing Liu.<br/>
+SIAM International Conference on Data Mining (SDM), 2021
 
-[3] Kookjin Lee and Kevin Carlberg. Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws. Accepted, 35th AAAI Conference on Artificial Intelligence (AAAI) [[arXiv]](https://arxiv.org/abs/1909.09754)
+- <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b><br/>
+Kookjin Lee and Kevin Carlberg. <br/>
+AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
+[[arXiv]](https://arxiv.org/abs/1909.09754)
 
-[4] Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park. DPM: A novel training method for physics-informed neural networks in extrapolation, 2020 - accepted, 35th AAAI Conference on Artificial Intelligence (AAAI) [[arXiv]](https://arxiv.org/abs/2012.02681)
+- <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
+Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park. 
+AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
+[[arXiv]](https://arxiv.org/abs/2012.02681)
 
 [5] Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, and Soonhyeon Kwon. Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients. In 2019 IEEE International Conference on Big Data (Big Data), pages 1181–1186. IEEE, 2019  [[Paper]](https://ieeexplore.ieee.org/document/9005966)
 
