@@ -8,9 +8,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Conference
 =====
-- <b>Partition of unity networks: deep hp-approximation </b></br>
-Kookjin Lee, Nathaniel A. Trask, Ravi G. Patel, Mamikon A. Gulian, and Eric C. Cyr.</br> 
-AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) </br> 
+- <b>Partition of unity networks: deep hp-approximation </b><br/>
+Kookjin Lee, Nathaniel A. Trask, Ravi G. Patel, Mamikon A. Gulian, and Eric C. Cyr.<br/> 
+AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) <br/> 
 [[arXiv]](https://arxiv.org/abs/2101.11256)
 
 [2] Noseong Park, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Jinseong Jeon, Duanshun Li, Kookjin Lee, and Jing Liu. Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets, 2020 - accepted SIAM International Conference on Data Mining (SDM)
