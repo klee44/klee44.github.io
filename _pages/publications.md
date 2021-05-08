@@ -8,68 +8,72 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Conferences
 =====
+- <b>A Novel Method to Solve Neural Knapsack Problems</b><br/>
+D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, N Park<br/>
+International Conference on Machine Learning (ICML), 2021
+
 - <b>Partition of unity networks: deep hp-approximation </b><br/>
-Kookjin Lee, Nathaniel A. Trask, Ravi G. Patel, Mamikon A. Gulian, and Eric C. Cyr<br/> 
+K Lee, N A Trask, R G Patel, M A Gulian, and E C Cyr<br/> 
 AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) <br/> 
 [[arXiv]](https://arxiv.org/abs/2101.11256)
 
 - <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b><br/>
-Noseong Park, Dongeun Lee, Seunghyun Hwang, Soyoung Kang, Jinseong Jeon, Duanshun Li, Kookjin Lee, and Jing Liu<br/>
+N Park, D Lee, S Hwang, S Kang, J Jeon, D Li, K Lee, and J Liu<br/>
 SIAM International Conference on Data Mining (SDM), 2021
 
 - <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b><br/>
-Kookjin Lee and Kevin Carlberg<br/>
+K Lee and K Carlberg<br/>
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 [[arXiv]](https://arxiv.org/abs/1909.09754)
 
 - <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
-Jungeun Kim, Kookjin Lee, Dongeun Lee, Sheo Yon Jin, and Noseong Park<br/> 
+J Kim, K Lee, D Lee, S Y Jin, and N Park<br/> 
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 [[arXiv]](https://arxiv.org/abs/2012.02681)
 
 - <b>Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients</b><br/> 
-Nasheen Nur, Noseong Park, Kookjin Lee, Hyunjoong Kang, and Soonhyeon Kwon<br/> 
+N Nur, N Park, K Lee, H Kang, and S Kwon<br/> 
 IEEE International Conference on Big Data (Big Data), 2019<br/>
 [[Paper]](https://ieeexplore.ieee.org/document/9005966)
 
 - <b>On integrating knowledge graph embedding into sparql query processing</b><br/>
-Hyunjoong Kang, Sanghyun Hong, Kookjin Lee, Noseong Park, and Soonhyun Kwon<br/> 
+H Kang, S Hong, K Lee, N Park, and S Kwon<br/> 
 IEEE International Conference on Web Services (ICWS), 2018 <br/>
 [[Paper]](https://ieeexplore.ieee.org/document/8456381)
 
 - <b>MMGAN: Manifold-matching generative adversarial networks</b><br/>
-Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Jaegul Choo, David Keetae Park, Tanmoy Chakraborty, Hongkyu Park, and Youngmin Kim<br/> 
+N Park, A Anand, J R A Moniz, K Lee, J Choo, D K Park, T Chakraborty, H Park, and Y Kim<br/> 
 International Conference on Pattern Recognition (ICPR), 2018<br/>
 [[Paper]](https://ieeexplore.ieee.org/document/8545881)
 
 - <b> A group-based communication scheme based on the location information of MTC devices in cellular networks</b><br/>
-Kookjin Lee, JaeSheung Shin, Yongwoo Cho, Kab Seok Ko, Dan Keun Sung, and Heonshik Shin<br/>
+K Lee, J Shin, Y Cho, K S Ko, D K Sung, and H Shin<br/>
 IEEE International Conference on Communications (ICC), 2012<br/>
 [[Paper]](https://ieeexplore.ieee.org/document/6364277)
 
 Jounal publications
 =====
 - <b> Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders</b><br/>
-Kookjin Lee and Kevin T Carlberg<br/>
+K Lee and K Carlberg<br/>
 Journal of Computational Physics (JCP), 404:108973, 2020.<br/> 
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999119306783?casa_token=02NNBzIRGlMAAAAA:BpGdU2WMfe_xIapkW7gyG-eNaxYVSTnv0UcVKofU5iWhR9mCIVkXf9HvciaLJ1W5pPfVXLgC8Q)[[arXiv]](https://arxiv.org/pdf/1812.08373.pdf) 
 
 - <b> A low-rank solver for the Navier–Stokes equations with uncertain viscosity</b><br/>
-Kookjin Lee, Howard C Elman, and Bedřich Sousedík<br/>
+K Lee, H C Elman, and B Sousedík<br/>
 SIAM/ASA Journal on Uncertainty Quantification (JUQ), 7(4):1275–1300, 2019.<br/> 
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/17M1151912)[[arXiv]](https://arxiv.org/abs/1710.05812)
 
 - <b>Inexact methods for symmetric stochastic eigenvalue problems</b><br/>
-Kookjin Lee and Bedřich Sousedík<br/>
+K Lee and B Sousedík<br/>
 SIAM/ASA Journal on Uncertainty Quantification, 6(4):1744–1776, 2018.<br/> 
 [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/18M1176026?casa_token=PIpEYkE2d84AAAAA:S8t3dlwEj_4B4C4JIgj2WsDWkb-fOpi4TGSUVAxwpkUa0Pyib3xI50v1H9F3m7bkiB2limKC4A)[[arXiv]](https://arxiv.org/abs/1811.00745) 
 
 - <b>Stochastic least-squares Petrov–Galerkin method for parameterized linear systems</b><br/>  
-Kookjin Lee, Kevin Carlberg, and Howard C Elman<br/>
+K Lee, K Carlberg, and H C Elman<br/>
 SIAM/ASA Journal on Uncertainty Quantification (JUQ), 6(1):374–396, 2018.<br/>
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/17M1110729)[[arXiv]](https://arxiv.org/abs/1701.01492)
 
 - <b>A preconditioned low-rank projection method with a rank-reduction scheme for stochastic partial differential equations.</b><br/>
-Kookjin Lee and Howard C Elman<br/>
+K Lee and H C Elman<br/>
 SIAM Journal on Scientific Computing (SISC), 39(5):S828–S850, 2017.<br/>
 [[Paper]](https://epubs.siam.org/doi/abs/10.1137/16M1075582)[[arXiv]](https://arxiv.org/abs/1605.05297)
