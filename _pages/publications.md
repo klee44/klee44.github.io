@@ -9,7 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 Conferences
 =====
 - <b>A Novel Method to Solve Neural Knapsack Problems</b><br/>
-D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, N Park<br/>
+D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, and N Park<br/>
 International Conference on Machine Learning (ICML), 2021
 
 - <b>Partition of unity networks: deep hp-approximation </b><br/>
