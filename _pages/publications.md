@@ -21,34 +21,34 @@ AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Lear
 N Park, D Lee, S Hwang, S Kang, J Jeon, D Li, K Lee, and J Liu<br/>
 SIAM International Conference on Data Mining (SDM), 2021<br/>
 
-- <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16102)[[arXiv]](https://arxiv.org/abs/1909.09754)<br/>
+- <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16102) [[arXiv]](https://arxiv.org/abs/1909.09754)<br/>
 K Lee and K Carlberg<br/>
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 
-- <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
+- <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799) [[arXiv]](https://arxiv.org/abs/2012.02681)<br/>
 J Kim, K Lee, D Lee, S Y Jin, and N Park<br/> 
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)[[arXiv]](https://arxiv.org/abs/2012.02681)
 
-- <b>Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients</b><br/> 
+
+- <b>Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients</b> [[Paper]](https://ieeexplore.ieee.org/document/9005966)<br/> 
 N Nur, N Park, K Lee, H Kang, and S Kwon<br/> 
 IEEE International Conference on Big Data (Big Data), 2019<br/>
-[[Paper]](https://ieeexplore.ieee.org/document/9005966)
 
-- <b>On integrating knowledge graph embedding into sparql query processing</b><br/>
+
+- <b>On integrating knowledge graph embedding into sparql query processing</b> [[Paper]](https://ieeexplore.ieee.org/document/8456381)<br/>
 H Kang, S Hong, K Lee, N Park, and S Kwon<br/> 
 IEEE International Conference on Web Services (ICWS), 2018 <br/>
-[[Paper]](https://ieeexplore.ieee.org/document/8456381)
 
-- <b>MMGAN: Manifold-matching generative adversarial networks</b><br/>
+
+- <b>MMGAN: Manifold-matching generative adversarial networks</b> [[Paper]](https://ieeexplore.ieee.org/document/8545881)<br/>
 N Park, A Anand, J R A Moniz, K Lee, J Choo, D K Park, T Chakraborty, H Park, and Y Kim<br/> 
 International Conference on Pattern Recognition (ICPR), 2018<br/>
-[[Paper]](https://ieeexplore.ieee.org/document/8545881)
 
-- <b> A group-based communication scheme based on the location information of MTC devices in cellular networks</b><br/>
+
+- <b> A group-based communication scheme based on the location information of MTC devices in cellular networks</b> [[Paper]](https://ieeexplore.ieee.org/document/6364277)<br/>
 K Lee, J Shin, Y Cho, K S Ko, D K Sung, and H Shin<br/>
 IEEE International Conference on Communications (ICC), 2012<br/>
-[[Paper]](https://ieeexplore.ieee.org/document/6364277)
+
 
 Jounal publications
 =====
