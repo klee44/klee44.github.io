@@ -19,7 +19,7 @@ AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Lear
 
 - <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b><br/>
 N Park, D Lee, S Hwang, S Kang, J Jeon, D Li, K Lee, and J Liu<br/>
-SIAM International Conference on Data Mining (SDM), 2021
+SIAM International Conference on Data Mining (SDM), 2021<br/>
 [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.80)
 
 - <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b><br/>
