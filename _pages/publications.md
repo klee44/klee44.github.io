@@ -20,16 +20,17 @@ AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Lear
 - <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b><br/>
 N Park, D Lee, S Hwang, S Kang, J Jeon, D Li, K Lee, and J Liu<br/>
 SIAM International Conference on Data Mining (SDM), 2021
+[[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.80)
 
 - <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b><br/>
 K Lee and K Carlberg<br/>
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
-[[arXiv]](https://arxiv.org/abs/1909.09754)[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/16102)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16102)[[arXiv]](https://arxiv.org/abs/1909.09754)
 
 - <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
 J Kim, K Lee, D Lee, S Y Jin, and N Park<br/> 
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
-[[arXiv]](https://arxiv.org/abs/2012.02681)[[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)[[arXiv]](https://arxiv.org/abs/2012.02681)
 
 - <b>Two problems in knowledge graph embedding: Non-exclusive relation categories and zero gradients</b><br/> 
 N Nur, N Park, K Lee, H Kang, and S Kwon<br/> 
