@@ -12,20 +12,18 @@ Conferences
 D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, and N Park<br/>
 International Conference on Machine Learning (ICML), 2021
 
-- <b>Partition of unity networks: deep hp-approximation </b><br/>
+- <b>Partition of unity networks: deep hp-approximation</b> [[arXiv]](https://arxiv.org/abs/2101.11256)<br/>
 K Lee, N A Trask, R G Patel, M A Gulian, and E C Cyr<br/> 
 AAAI 2021 Spring Symposium on Combining Artificial Intelligence and Machine Learning with Physics Sciences (AAAI-MLPS) <br/> 
-[[arXiv]](https://arxiv.org/abs/2101.11256)
 
-- <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b><br/>
+
+- <b>Large-scale flight frequency optimization with global convergencein the US domestic air passenger markets</b> [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.80) <br/>
 N Park, D Lee, S Hwang, S Kang, J Jeon, D Li, K Lee, and J Liu<br/>
 SIAM International Conference on Data Mining (SDM), 2021<br/>
-[[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.80)
 
-- <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b><br/>
+- <b>Deep Conservation: A latent dynamics model for exact satisfaction of physical conservation laws</b> [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16102)[[arXiv]](https://arxiv.org/abs/1909.09754)<br/>
 K Lee and K Carlberg<br/>
 AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16102)[[arXiv]](https://arxiv.org/abs/1909.09754)
 
 - <b>DPM: A novel training method for physics-informed neural networks in extrapolation</b><br/>
 J Kim, K Lee, D Lee, S Y Jin, and N Park<br/> 
