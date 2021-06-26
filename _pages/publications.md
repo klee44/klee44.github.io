@@ -46,6 +46,11 @@ IEEE International Conference on Communications (ICC), 2012<br/>
 
 Jounal publications
 =====
+- <b> The predictive skill of convolutional neural networks models for disease forecasting</b> <br/>
+K Lee, J Ray, and C Safta<br/>
+PLOS ONE, 2021.<br/>
+
+
 - <b> Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders</b> [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999119306783?casa_token=02NNBzIRGlMAAAAA:BpGdU2WMfe_xIapkW7gyG-eNaxYVSTnv0UcVKofU5iWhR9mCIVkXf9HvciaLJ1W5pPfVXLgC8Q) [[arXiv]](https://arxiv.org/pdf/1812.08373.pdf) <br/>
 K Lee and K Carlberg<br/>
 Journal of Computational Physics (JCP), 404:108973, 2020.<br/> 
