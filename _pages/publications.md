@@ -8,7 +8,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Conferences
 =====
-- <b>A Novel Method to Solve Neural Knapsack Problems</b><br/>
+- <b>A Novel Method to Solve Neural Knapsack Problems</b> [[Paper]](http://proceedings.mlr.press/v139/li21m/li21m.pdf)<br/>
 D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, and N Park<br/>
 International Conference on Machine Learning (ICML), 2021
 
