@@ -46,7 +46,7 @@ IEEE International Conference on Communications (ICC), 2012<br/>
 
 Jounal publications
 =====
-- <b> The predictive skill of convolutional neural networks models for disease forecasting</b> <br/>
+- <b> The predictive skill of convolutional neural networks models for disease forecasting</b>[[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254319) <br/>
 K Lee, J Ray, and C Safta<br/>
 PLOS ONE, 2021.<br/>
 
