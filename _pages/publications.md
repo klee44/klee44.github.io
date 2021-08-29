@@ -48,7 +48,7 @@ Jounal publications
 =====
 - <b> Parameterized neural ordinary differential equations: Applications to computational physics problems </b> [[Paper]] [[arXiv]](https://arxiv.org/pdf/2010.14685.pdf)<br/>
 K Lee and E Parish<br/>
-PRSA, 2021.<br/> 
+Proceedings of Royal Society A, 2021.<br/> 
 
 - <b> The predictive skill of convolutional neural networks models for disease forecasting</b> [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254319) <br/>
 K Lee, J Ray, and C Safta<br/>
