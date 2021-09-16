@@ -46,14 +46,13 @@ IEEE International Conference on Communications (ICC), 2012<br/>
 
 Jounal publications
 =====
-- <b> Parameterized neural ordinary differential equations: Applications to computational physics problems </b> [[Paper]] [[arXiv]](https://arxiv.org/pdf/2010.14685.pdf)<br/>
+- <b> Parameterized neural ordinary differential equations: Applications to computational physics problems </b> [[Paper]](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0162) [[arXiv]](https://arxiv.org/pdf/2010.14685.pdf)<br/>
 K Lee and E Parish<br/>
 Proceedings of Royal Society A, 2021.<br/> 
 
 - <b> The predictive skill of convolutional neural networks models for disease forecasting</b> [[Paper]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0254319) <br/>
 K Lee, J Ray, and C Safta<br/>
 PLOS ONE, 2021.<br/>
-
 
 - <b> Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders</b> [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999119306783?casa_token=02NNBzIRGlMAAAAA:BpGdU2WMfe_xIapkW7gyG-eNaxYVSTnv0UcVKofU5iWhR9mCIVkXf9HvciaLJ1W5pPfVXLgC8Q) [[arXiv]](https://arxiv.org/pdf/1812.08373.pdf) <br/>
 K Lee and K Carlberg<br/>
