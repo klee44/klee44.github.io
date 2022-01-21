@@ -8,6 +8,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Conferences
 =====
+- <b>Machine learning structure preserving brackets for forecasting irreversible processes</b> [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)<br/>
+K Lee, N Trask, and P Stinis<br/>
+Advances in Neural Information Processing Systems (NeurIPS), 2021
+
 - <b>A Novel Method to Solve Neural Knapsack Problems</b> [[Paper]](http://proceedings.mlr.press/v139/li21m/li21m.pdf)<br/>
 D Li, J Liu, D Lee, A Seyedmazloom, G Kaushik, K Lee, and N Park<br/>
 International Conference on Machine Learning (ICML), 2021
@@ -46,6 +50,10 @@ IEEE International Conference on Communications (ICC), 2012<br/>
 
 Jounal publications
 =====
+- <b> Enhanced alternating energy minimization methods for stochastic galerkin matrix equations </b> [[Paper]](https://link.springer.com/article/10.1007/s10543-021-00903-x)<br/>
+K Lee, H C Elman, C E Powell, D Lee<br/>
+BIT Numerical Mathematics, 2022.<br/>
+
 - <b> Parameterized neural ordinary differential equations: Applications to computational physics problems </b> [[Paper]](https://royalsocietypublishing.org/doi/10.1098/rspa.2021.0162) [[arXiv]](https://arxiv.org/pdf/2010.14685.pdf)<br/>
 K Lee and E Parish<br/>
 Proceedings of Royal Society A, 2021.<br/> 
