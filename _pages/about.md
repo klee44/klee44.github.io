@@ -15,6 +15,20 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 ## Research Highlights
 
-### Implicit Neural Representations 
+### Structure-preserving dynamics modeling 
 
+- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 (to appear)
 
+- <b>K Lee</b>, N Trask, P Stinis, Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling, MSML 2022 [Paper](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)[Code](https://github.com/klee44/NDSI)
+
+- <b>K Lee</b>, N Trask, P Stinis, Machine learning structure preserving brackets for forecasting irreversible processes, NeurIPS 2021 <span style="color:red">Spotlight</span> [Paper](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)
+
+### Implicit Neural Representations (INRs) 
+
+INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
+
+- W Cho, <b>K Lee</b>, D Rim, and N Park,  Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks, NeurIPS 2023 <span style="color:red">Spotlight</span> (to appear)
+
+- J Kim, <b>K Lee</b>, D Lee, SY Jhin, and N Park, DPM: A novel training method for physics-informed neural networks in extrapolation, AAAI, 2021 
+
+- 
