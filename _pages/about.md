@@ -17,7 +17,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 ### Structure-preserving dynamics modeling 
 
-- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 (to appear)
+- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 (to appear) [[Preprint]](https://arxiv.org/abs/2305.15616)
 
 - <b>K Lee</b>, N Trask, P Stinis, Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling, MSML 2022 [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)[[Code]](https://github.com/klee44/NDSI)
 
@@ -27,7 +27,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
 
-- W Cho, <b>K Lee</b>, D Rim, and N Park,  Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks, NeurIPS 2023 <span style="color:red">Spotlight</span> (to appear)
+- W Cho, <b>K Lee</b>, D Rim, and N Park,  Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks, NeurIPS 2023 <span style="color:red">Spotlight</span> (to appear) [[Preprint]](https://arxiv.org/abs/2310.09528) [[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)
 
 - J Kim, <b>K Lee</b>, D Lee, SY Jhin, and N Park, DPM: A novel training method for physics-informed neural networks in extrapolation, AAAI, 2021 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992)
 
