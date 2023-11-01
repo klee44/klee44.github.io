@@ -31,3 +31,6 @@ INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
 
 - J Kim, <b>K Lee</b>, D Lee, SY Jhin, and N Park, DPM: A novel training method for physics-informed neural networks in extrapolation, AAAI, 2021 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992)
 
+INR-based reduced-order modeling
+
+- T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
