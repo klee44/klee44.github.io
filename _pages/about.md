@@ -34,3 +34,5 @@ INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
 INR-based reduced-order modeling
 
 - T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
+
+## News
