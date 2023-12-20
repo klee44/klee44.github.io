@@ -38,5 +38,4 @@ INR-based reduced-order modeling
 ## News
 
 Dec 2023: One paper accepted at AAAI 2024.
-
 Dec 2023: Presented two papers (one highlight) and two workshop papers at neurips 2023.
