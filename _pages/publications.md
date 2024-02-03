@@ -6,7 +6,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=KL89hVQAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 Structure-preserving dynamics modeling
-=====
+-----
 
 - <b>Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks</b> [[Preprint]](https://arxiv.org/abs/2305.15616)<br/> A Gruber, K Lee, N Trask<br/>  Advances in Neural Information Processing Systems (NeurIPS), 2023
 
@@ -18,7 +18,7 @@ Advances in Neural Information Processing Systems (NeurIPS), 2021
 
 
 Reduced-order Modeling
-=====
+-----
 
 - <b> Model reduction of dynamical systems on nonlinear manifolds using deep convolutional autoencoders</b> [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999119306783?casa_token=02NNBzIRGlMAAAAA:BpGdU2WMfe_xIapkW7gyG-eNaxYVSTnv0UcVKofU5iWhR9mCIVkXf9HvciaLJ1W5pPfVXLgC8Q) [[arXiv]](https://arxiv.org/pdf/1812.08373.pdf) <br/>
 K Lee and K Carlberg<br/>
@@ -34,7 +34,7 @@ Proceedings of Royal Society A, 2021.<br/>
 
 
 Physics-informed Neural Networks
-=====
+-----
 
 - <b>Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks</b> [[Preprint]](https://arxiv.org/abs/2310.09528) [[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN) W Cho, K Lee, D Rim, and N Park<br/>  Advances in Neural Information Processing Systems (NeurIPS), 2023 
 
@@ -45,7 +45,7 @@ AAAI Conference on Artificial Intelligence (AAAI), 2021<br/>
 
 
 Iterative Solvers for (non-)Linear Systems
-=====
+-----
 
 - <b> A low-rank solver for the Navier–Stokes equations with uncertain viscosity</b> [[Paper]](https://epubs.siam.org/doi/abs/10.1137/17M1151912) [[arXiv]](https://arxiv.org/abs/1710.05812)<br/>
 K Lee, H C Elman, and B Sousedík<br/>
