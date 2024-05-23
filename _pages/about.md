@@ -38,7 +38,7 @@ INR-based reduced-order modeling
 ## News
 - May 2024: One paper accepted at <b>ICML 2024</b>
 
-- Apr 2024: Received <b> NSF CAREER award </b> [Award description](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338909) [ASU article](https://fullcircle.asu.edu/faculty/new-ai-for-a-new-era-of-discovery/) 
+- Apr 2024: Received <b> NSF CAREER award </b> [[Award description]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338909) [[ASU article]](https://fullcircle.asu.edu/faculty/new-ai-for-a-new-era-of-discovery/) 
 
 - Mar 2024: One paper (Unsupervised Physics-informed Multimodal Learning) accepted by Foundations of Data Science (FoDS)
 
