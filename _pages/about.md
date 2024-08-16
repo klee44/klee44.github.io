@@ -38,6 +38,8 @@ INR-based reduced-order modeling
 ## News
 - Jul 2024: One paper accepted at <b>CIKM 2024</b> 
 
+(The first author, Fan W, received SIGWEB and NSF Travel Grant!)  
+
 - May 2024: One paper accepted at <b>ICML 2024</b> (selected for an [<span style="color:red">Oral</span> presentation](https://icml.cc/virtual/2024/session/35281))
 
 - Apr 2024: Received <b> NSF CAREER award </b> [[Award description]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338909) [[ASU article]](https://fullcircle.asu.edu/faculty/new-ai-for-a-new-era-of-discovery/) 
