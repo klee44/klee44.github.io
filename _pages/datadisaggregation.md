@@ -10,7 +10,7 @@ Recent policy initiatives have acknowledged the importance of disaggregating dat
 
 Reference: Fan, et al, "Not All Asians are the Same: A Disaggregated Approach to Identifying Anti-Asian Racism in Social Media," WWW '24: Proceedings of the ACM Web Conference 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645630)[[3 min summary]](https://www.youtube.com/watch?v=dnPtcbKamAU&ab_channel=ACMSIGWEB) 
 
-## 
+---
 
 This research activity is funded by National Science Foundation under the award, CNS-2210137, titled, "EAGER: DCL: SaTC: Enabling Interdisciplinary Collaboration: Combatting Disinformation and Racial Bias: A Deep-Learning-Assisted Investigation of Temporal Dynamics of Disinformation" [[Award Description]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2210137) 
 
