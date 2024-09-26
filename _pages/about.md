@@ -38,6 +38,10 @@ INR-based reduced-order modeling
 ## News
 - Sep 2024: One paper accepted at <b>NeurIPS 2024</b>
 
+- Sep 2024: Gave a talk at DoMSS seminar in the School of Math and Stats (SoMSS) at ASU 
+
+- Jul 2024: Gave a talk at MINDS seminar in Dept of Math at Postech 
+
 - Jul 2024: One paper accepted at <b>CIKM 2024</b> (The first author, Fan Wu, received SIGWEB and NSF Travel Grant!)  
 
 - May 2024: One paper accepted at <b>ICML 2024</b> (selected for an [<span style="color:red">Oral</span> presentation](https://icml.cc/virtual/2024/session/35281))
