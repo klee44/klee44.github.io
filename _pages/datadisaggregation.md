@@ -12,7 +12,7 @@ Recent policy initiatives have acknowledged the importance of disaggregating dat
 
 Reference: Fan, et al, "Not All Asians are the Same: A Disaggregated Approach to Identifying Anti-Asian Racism in Social Media," WWW '24: Proceedings of the ACM Web Conference 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3589334.3645630)[[3-min video summary]](https://www.youtube.com/watch?v=dnPtcbKamAU&ab_channel=ACMSIGWEB) 
 
-## On-going project: disaggregated data analysis in large language models (LLMs)
+## On-going project: Disaggregated data analysis in large language models (LLMs)
 This project investigates how equitable data mining can enhance large language models (LLMs) to better serve ethnic minorities. The approach involves creating specialized datasets that reflect the unique needs and contexts of different ethnic communities, aiming to reduce biases often present in AI outputs. The work progresses through multiple stages, from developing improved AI prompts to evaluating how well the system tailors scientific information for specific communities. Community experts will help assess the system's inclusivity, and the project will also provide public education on fair data practices in AI.
 
 ---
