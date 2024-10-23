@@ -15,6 +15,8 @@ Fu, Deqing, Tian-Qi Chen, Robin Jia, and Vatsal Sharan. "Transformers learn high
 
 ## Functions ICL can learn
 
+Garg, Shivam, Dimitris Tsipras, Percy S. Liang, and Gregory Valiant. "What can transformers learn in-context? a case study of simple function classes." Advances in Neural Information Processing Systems 35 (2022) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
+
 Li, Yingcong, Muhammed Emrullah Ildiz, Dimitris Papailiopoulos, and Samet Oymak. "Transformers as algorithms: Generalization and stability in in-context learning." International Conference on Machine Learning, (2023) [[Paper]](https://proceedings.mlr.press/v202/li23l/li23l.pdf)
 
-Garg, Shivam, Dimitris Tsipras, Percy S. Liang, and Gregory Valiant. "What can transformers learn in-context? a case study of simple function classes." Advances in Neural Information Processing Systems 35 (2022) [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c529dba08a146ea8d6cf715ae8930cbe-Paper-Conference.pdf)
+Li, Yingcong, Yixiao Huang, Muhammed E. Ildiz, Ankit Singh Rawat, and Samet Oymak. "Mechanics of next token prediction with self-attention." In International Conference on Artificial Intelligence and Statistics, (2024) [[Paper]](https://proceedings.mlr.press/v238/li24f/li24f.pdf)
