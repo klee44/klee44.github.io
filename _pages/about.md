@@ -44,7 +44,7 @@ INR-based reduced-order modeling
 
 - Oct 2024: Two papers accepted at NeurIPS workshops (Machine Learning and the Physical Sciences and Foundation Models for Science) 
 
-- Sep 2024: One paper accepted by Materials Today [[Paper]](https://authors.elsevier.com/c/1jqri4tRoWZ9iQ)
+- Sep 2024: One paper accepted by Materials Today (on the cover! [Cover image](/files/BFP-cover-materials-today.jpeg))  
 
 - Sep 2024: One paper accepted at <b>NeurIPS 2024</b>
 
