@@ -36,6 +36,8 @@ INR-based reduced-order modeling
 - T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
 
 ## News
+- Feb 2025: One paper accepted by Results in Applied Mathematics
+
 - Jan 2025: Three papers accebed at <b>ICLR 2025</b>
 
 - Nov 2024: Launching a new project with Applied Materials Inc. 
