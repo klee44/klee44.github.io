@@ -38,6 +38,8 @@ INR-based reduced-order modeling
 ## News
 - Feb 2025: One paper accepted by Results in Applied Mathematics
 
+- Feb 2025: One paper accepted by Transactions on Machine Learning Research (TMLR) [[Paper]](https://openreview.net/pdf?id=hCxtlfvL22) 
+
 - Jan 2025: Three papers accebed at <b>ICLR 2025</b>
 
 - Nov 2024: Launching a new project with Applied Materials Inc. 
