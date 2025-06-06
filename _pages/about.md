@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor in [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). I am generally interested in deep learning, representation learning, and dynamical systems.<br/> 
 
-<b>Open positions</b>: I am looking for self-motivated Ph.D. research assistants. Email me with your CV and a brief introduction of your research interests to kookjin.lee@asu.edu.  
+<!-- <b>Open positions</b>: I am looking for self-motivated Ph.D. research assistants. Email me with your CV and a brief introduction of your research interests to kookjin.lee@asu.edu. --> 
 
 
 ## Research Highlights
@@ -40,7 +40,7 @@ INR-based reduced-order modeling
 
 - Feb 2025: One paper accepted at ICLR workshop (Workshop on Neural Network Weights as a New Data Modality) 
 
-- Feb 2025: One paper accepted by Results in Applied Mathematics
+- Feb 2025: One paper accepted by Results in Applied Mathematics [[ASU article]](https://fullcircle.asu.edu/faculty/applying-new-ai-to-microelectronics-manufacturing/)[[ASU article #2]](https://news.asu.edu/20250428-science-and-technology-applying-ai-microelectronics-manufacturing)[[ASU article #3]](https://news.asu.edu/20250422-science-and-technology-applied-materials-invests-asu-advance-technology-brighter-future)
 
 - Feb 2025: One paper accepted by Transactions on Machine Learning Research (TMLR) [[Paper]](https://openreview.net/pdf?id=hCxtlfvL22) 
 
