@@ -29,6 +29,8 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
 
+- W Cho, M Jo, H Lim, <b>K Lee</b>, D Lee, S Hong, N Park, Parameterized Physics-informed Neural Networks for Parameterized PDEs, ICML 2024 <span style="color:red">Oral</span>
+
 - W Cho, <b>K Lee</b>, D Rim, and N Park,  Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks, NeurIPS 2023 <span style="color:red">Spotlight</span> (to appear) [[Preprint]](https://arxiv.org/abs/2310.09528) [[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)
 
 - J Kim, <b>K Lee</b>, D Lee, SY Jhin, and N Park, DPM: A novel training method for physics-informed neural networks in extrapolation, AAAI, 2021 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992)
