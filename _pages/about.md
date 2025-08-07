@@ -17,7 +17,9 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 ### Structure-preserving dynamics modeling 
 
-- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 (to appear) [[Preprint]](https://arxiv.org/abs/2305.15616)
+- A Gruber, <b>K Lee</b>, H Lim, N Park, N Trask, Efficiently Parameterized Neural Metriplectic Systems, ICLR 2025
+
+- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 [[Preprint]](https://arxiv.org/abs/2305.15616)
 
 - <b>K Lee</b>, N Trask, P Stinis, Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling, MSML 2022 [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)[[Code]](https://github.com/klee44/NDSI)
 
@@ -36,6 +38,12 @@ INR-based reduced-order modeling
 - T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
 
 ## News
+- Aug 2025: Launching a new project with Salt River Project 
+
+- Jul 2025: One paper accepted at <b>AIES 2025</b>
+
+- Jun 2025: Guangting successfully defended his PhD defense. 
+
 - Apr 2025: Jamie, Rushir, and John successfully defended their master's theses. Congrats to all!
 
 - Feb 2025: One paper accepted at ICLR workshop (Workshop on Neural Network Weights as a New Data Modality) 
