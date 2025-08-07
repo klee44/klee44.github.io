@@ -39,6 +39,10 @@ INR-based reduced-order modeling
 
 - T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
 
+INR for periodic signals
+
+- W Cho, M Jo, <b>K Lee</b>, N Park, Neural functions for learning periodic signal, ICLR 2025
+
 ## News
 - Aug 2025: Launching a new project with Salt River Project 
 
