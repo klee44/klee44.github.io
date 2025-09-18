@@ -44,6 +44,8 @@ INR for periodic signals
 - W Cho, M Jo, <b>K Lee</b>, N Park, Neural functions for learning periodic signal, ICLR 2025
 
 ## News
+- Sep 2025: Uvini's poster got accepted at American Vacuum Society (AVS) 71, AI/ML for Scientific Discovery session. 
+
 - Aug 2025: Launching a new project with Salt River Project 
 
 - Jul 2025: One paper accepted at <b>AIES 2025</b>
