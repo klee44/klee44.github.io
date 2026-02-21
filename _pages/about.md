@@ -44,6 +44,12 @@ INR for periodic signals
 - W Cho, M Jo, <b>K Lee</b>, N Park, Neural functions for learning periodic signal, ICLR 2025
 
 ## News
+- Feb 2026: One paper accepted by JMLR
+
+- Jan 2026: One paper accepted at <b>ICLR 2026</b>
+
+- Nov 2025: Ray defended his master's thesis. Congrats! 
+
 - Sep 2025: Will be serving as an AC at <b>ICLR 2026</b>
 
 - Sep 2025: One paper accepted at <b>NeurIPS 2025</b>
