@@ -59,6 +59,8 @@ Paper: [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)
 
 Extended bracket-based dynamics to graph neural networks using exterior calculus. Developed Hamiltonian, gradient, double-bracket, and metriplectic architectures, clarifying the role of reversibility and dissipation in deep GNN performance.
 
+Authors: Anthony Gruber, KL, and Nat Trask  
+Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903af0a1cffb43dbb2f8160d110a5f3-Paper-Conference.pdf)
 
 ---
 
