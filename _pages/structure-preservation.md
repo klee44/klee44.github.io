@@ -1,9 +1,8 @@
 ---
-title: "Structure-Preserving Dynamics"
+title: "Structure-Preserving Dynamics Modeling"
 permalink: /sp/
 ---
 
-# Structure-Preserving Dynamics Modeling  
 *Learning dynamical systems that obey thermodynamics by construction.*
 
 ---
