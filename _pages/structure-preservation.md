@@ -77,7 +77,7 @@ Paper: [[Paper]](https://openreview.net/pdf?id=uL1H29dM0c)
 
 Integrated autoencoders with parametric GENERIC neural networks for reduced-order modeling. The method preserves free energy conservation and entropy production across parameter space, achieving significant speedups with physically interpretable latent dynamics.
 
-Authors: Xiaolong He, Yeonjong Shin, [Anthony Gruber](https://agrubertx.github.io/), Sohyeon Jung, KL, and [Youngsoo Choi](https://people.llnl.gov/choi15)  
+Authors: Xiaolong He, [Yeonjong Shin](https://sites.google.com/site/shinmathematics/), [Anthony Gruber](https://agrubertx.github.io/), Sohyeon Jung, KL, and [Youngsoo Choi](https://people.llnl.gov/choi15)  
 Paper: [[Paper]](https://openreview.net/pdf?id=Qy3oLpRzpf)
 
 ---
