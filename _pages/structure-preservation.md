@@ -10,9 +10,7 @@ permalink: /sp/
 ## What is Structure-Preservation?
 
 Structure-preserving dynamics modeling builds machine learning models that respect the geometric and thermodynamic laws governing physical systems. Rather than learning arbitrary dynamics  
-\[
-\dot{x} = f_\theta(x),
-\]
+\(\dot{x} = f_\theta(x)\),
 we parameterize models so that invariants such as energy conservation or entropy production hold exactly by construction. This ensures physically realizable trajectories and improved extrapolation beyond the training regime.
 
 These approaches sit between black-box neural ODEs and fully specified physics models. Without assuming known governing equations, we enforce universal principles such as the first and second laws of thermodynamics through algebraic constraints (e.g., skew-symmetry, positive semidefiniteness, degeneracy conditions). The result is improved stability, robustness, and interpretability compared to penalty-based methods.
