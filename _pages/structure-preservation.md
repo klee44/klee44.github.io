@@ -44,7 +44,8 @@ By learning \(L\), \(M\), \(E\), and \(S\) from data while preserving these alge
 
 Introduced a learnable parameterization of dissipative brackets for irreversible systems within the metriplectic/GENERIC framework. The method guarantees energy conservation and entropy production while outperforming black-box and penalty-based models in long-term forecasting.
 
-Authors: KL, 
+Authors: KL, Nat Trask, and Panos Stinis 
+
 ---
 
 ### • Structure-Preserving Sparse Identification of Nonlinear Dynamics (MSML 2022)
