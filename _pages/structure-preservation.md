@@ -35,7 +35,7 @@ By learning $L$, $M$, $E$, and $S$ from data while preserving these algebraic pr
 
 ---
 
-## Selected Publications
+## Publications
 
 ### • Machine Learning Structure-Preserving Brackets for Forecasting Irreversible Processes (NeurIPS 2021)
 
