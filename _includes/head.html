@@ -20,8 +20,20 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- add to _includes/head.html or inside <head> of your layout -->
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<!-- MathJax configuration: ensure these delimiters are recognized -->
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']]
+  },
+  options: { skipHtmlTags: ['script','noscript','style','textarea','pre'] }
+};
+</script>
+
+<!-- Then load MathJax -->
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+
