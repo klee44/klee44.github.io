@@ -3,11 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Structure preservation"
+    url: /sp/
+
   - title: "Data disaggregation"
     url: /dd/
 
-  - title: "Structure preservation"
-    url: /sp/
+
 
 #  - title: "Talks"
 #    url: /talks/    
