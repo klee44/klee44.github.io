@@ -15,15 +15,11 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 ## Research Highlights
 
-### Structure-preserving dynamics modeling 
+<!--### Structure-preserving dynamics modeling--> 
+**Structure-preserving dynamics modeling:** Develops machine learning models that embed physical laws—such as energy conservation and entropy production—directly into their architecture for stable and reliable long-term prediction. [[NeurIPS2021](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)]  
+[Learn more →](/sp/)
 
-- A Gruber, <b>K Lee</b>, H Lim, N Park, N Trask, Efficiently Parameterized Neural Metriplectic Systems, ICLR 2025
 
-- A Gruber, <b>K Lee</b>, N Trask, Structure preserving reversible and irreversible bracket dynamics for deep graph neural networks, NeurIPS 2023 [[Preprint]](https://arxiv.org/abs/2305.15616)
-
-- <b>K Lee</b>, N Trask, P Stinis, Structure-preserving sparse identification of nonlinear dynamics for data-driven modeling, MSML 2022 [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)[[Code]](https://github.com/klee44/NDSI)
-
-- <b>K Lee</b>, N Trask, P Stinis, Machine learning structure preserving brackets for forecasting irreversible processes, NeurIPS 2021 <span style="color:red">Spotlight</span> [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)
 
 ### Implicit Neural Representations (INRs) 
 
