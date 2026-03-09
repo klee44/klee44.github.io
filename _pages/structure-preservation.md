@@ -68,20 +68,26 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903
 
 Developed a scalable parameterization of metriplectic systems with quadratic complexity in state dimension and dissipation rank. The approach preserves energy and entropy by construction while improving efficiency and generalization.
 
+Authors: Anthony Gruber, KL, Haksoo Lim, Noseong Park, and Nat Trask  
+Paper: [[Paper]](https://openreview.net/pdf?id=uL1H29dM0c)
 
 ---
 
-### • Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems (2025)
+### • Thermodynamically Consistent Latent Dynamics Identification for Parametric Systems (TMLR 2026)
 
 Integrated autoencoders with parametric GENERIC neural networks for reduced-order modeling. The method preserves free energy conservation and entropy production across parameter space, achieving significant speedups with physically interpretable latent dynamics.
 
+Authors: Xiaolong He, Yeonjong Shin, Anthony Gruber, Sohyeon Jung, KL, and Youngsoo Choi  
+Paper: [[Paper]](https://openreview.net/pdf?id=Qy3oLpRzpf)
 
 ---
 
-### • Meta-Learning Structure-Preserving Dynamics (2025)
+### • Meta-Learning Structure-Preserving Dynamics 
 
 Introduced a modulation-based meta-learning framework for conservative and dissipative systems. The model adapts across parametric families without retraining while preserving physical structure exactly.
 
+Authors: Cheng Jing, Uvini Balasuriya Mudiyanselage, Woojin Cho, Minju Jo, Anthony Gruber, KL  
+Paper: [[Paper]](https://arxiv.org/abs/2508.11205)
 
 ---
 
