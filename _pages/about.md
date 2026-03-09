@@ -16,7 +16,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 ## Research Highlights
 
 <!--### Structure-preserving dynamics modeling--> 
-**Structure-preserving dynamics modeling:** Develops machine learning models that embed physical laws—such as energy conservation and entropy production—directly into their architecture for stable and reliable long-term prediction. [[NeurIPS2021](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)]  
+**Structure-preserving dynamics modeling:** Develops machine learning models that embed physical laws, such as energy conservation and entropy production, directly into their architecture for stable and reliable long-term prediction. [[NeurIPS2021](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf),[MSML2022](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)]  
 [Learn more →](/sp/)
 
 
