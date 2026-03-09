@@ -21,17 +21,17 @@ These approaches sit between black-box neural ODEs and fully specified physics m
 
 The GENERIC (General Equation for Non-Equilibrium Reversible–Irreversible Coupling) formalism separates reversible and irreversible dynamics:
 
-\[
+$$
 \dot{x} = L(x)\nabla E(x) + M(x)\nabla S(x),
-\]
+$$
 
-where \(L\) is skew-symmetric (reversible structure), \(M\) is symmetric positive semidefinite (dissipative structure), \(E\) is energy, and \(S\) is entropy. The degeneracy conditions  
-\[
+where $L$ is skew-symmetric (reversible structure), $M$ is symmetric positive semidefinite (dissipative structure), $E$ is energy, and $S$ is entropy. The degeneracy conditions  
+$$
 L\nabla S = 0, \quad M\nabla E = 0
-\]
+$$
 guarantee energy conservation and non-decreasing entropy.
 
-By learning \(L\), \(M\), \(E\), and \(S\) from data while preserving these algebraic properties, we obtain models that are thermodynamically consistent by construction.
+By learning $L$, $M$, $E$, and $S$ from data while preserving these algebraic properties, we obtain models that are thermodynamically consistent by construction.
 
 ---
 
