@@ -42,6 +42,7 @@ By learning $L$, $M$, $E$, and $S$ from data while preserving these algebraic pr
 Introduced a learnable parameterization of dissipative brackets for irreversible systems within the metriplectic/GENERIC framework. The method guarantees energy conservation and entropy production while outperforming black-box and penalty-based models in long-term forecasting.
 
 Authors: KL, Nat Trask, and Panos Stinis 
+
 Paper: [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)
 
 ---
@@ -50,6 +51,9 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2
 
 Unified SINDy with neural ODE training to enable sparse discovery of black-box and bracket-based dynamics. The framework produces interpretable models while preserving Hamiltonian or GENERIC structure, improving stability and forecasting for chaotic systems.
 
+Authors: KL, Nat Trask, and Panos Stinis 
+
+Paper: [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)
 
 ---
 
