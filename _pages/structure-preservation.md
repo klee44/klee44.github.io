@@ -41,7 +41,7 @@ By learning $L$, $M$, $E$, and $S$ from data while preserving these algebraic pr
 
 Introduced a learnable parameterization of dissipative brackets for irreversible systems within the metriplectic/GENERIC framework. The method guarantees energy conservation and entropy production while outperforming black-box and penalty-based models in long-term forecasting.
 
-Authors: KL, Nat Trask, and Panos Stinis   
+Authors: KL, [[Nat Trask]](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume), and Panos Stinis   
 Paper: [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf)
 
 ---
@@ -50,7 +50,7 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2
 
 Unified SINDy with neural ODE training to enable sparse discovery of black-box and bracket-based dynamics. The framework produces interpretable models while preserving Hamiltonian or GENERIC structure, improving stability and forecasting for chaotic systems.
 
-Authors: KL, Nat Trask, and Panos Stinis  
+Authors: KL, [[Nat Trask]](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume), and Panos Stinis  
 Paper: [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)
 
 ---
@@ -59,7 +59,7 @@ Paper: [[Paper]](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf)
 
 Extended bracket-based dynamics to graph neural networks using exterior calculus. Developed Hamiltonian, gradient, double-bracket, and metriplectic architectures, clarifying the role of reversibility and dissipation in deep GNN performance.
 
-Authors: Anthony Gruber, KL, and Nat Trask  
+Authors: Anthony Gruber, KL, and [[Nat Trask]](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume)  
 Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903af0a1cffb43dbb2f8160d110a5f3-Paper-Conference.pdf)
 
 ---
@@ -68,7 +68,7 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903
 
 Developed a scalable parameterization of metriplectic systems with quadratic complexity in state dimension and dissipation rank. The approach preserves energy and entropy by construction while improving efficiency and generalization.
 
-Authors: Anthony Gruber, KL, Haksoo Lim, Noseong Park, and Nat Trask  
+Authors: Anthony Gruber, KL, Haksoo Lim, Noseong Park, and [[Nat Trask]](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume)  
 Paper: [[Paper]](https://openreview.net/pdf?id=uL1H29dM0c)
 
 ---
