@@ -68,7 +68,7 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903
 
 Developed a scalable parameterization of metriplectic systems with quadratic complexity in state dimension and dissipation rank. The approach preserves energy and entropy by construction while improving efficiency and generalization.
 
-Authors: [Anthony Gruber](https://agrubertx.github.io/), KL, Haksoo Lim, Noseong Park, and [Nat Trask](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume)  
+Authors: [Anthony Gruber](https://agrubertx.github.io/), KL, Haksoo Lim, [Noseong Park](https://sites.google.com/view/noseong), and [Nat Trask](https://ai4science.seas.upenn.edu/resumes/nat-trask-resume)  
 Paper: [[Paper]](https://openreview.net/pdf?id=uL1H29dM0c)
 
 ---
