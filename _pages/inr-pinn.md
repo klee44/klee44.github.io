@@ -40,3 +40,10 @@ Paper: [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
 ---
 
+### • Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks (NeurIPS 2023)
+
+
+Authors: Woojin Cho, KL, [Donsub Rim](https://dsrim.github.io/), and [Noseong Park](https://sites.google.com/view/noseong)  
+Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/24f8dd1b8f154f1ee0d7a59e368eccf3-Paper-Conference.pdf)
+
+---
