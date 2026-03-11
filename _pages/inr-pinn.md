@@ -17,6 +17,18 @@ This function-space perspective enables resolution-independent modeling of high-
 
 ---
 
+## Publications
+
+### • Neural Functions for Learning Periodic Signal (ICLR 2025)
+
+
+Proposed a neural function architecture tailored for learning periodic signals with improved extrapolation performance. Explicitly extracted periodic structure from measurements and incorporated it into the representation, addressing the overfitting and limited generalization of coordinate-based MLPs. Demonstrated strong performance on periodic differential equation solutions as well as real-world time series interpolation and forecasting tasks.
+
+Authors: Woojin Cho, Minju Jo, KL, and [Noseong Park](https://sites.google.com/view/noseong)  
+Paper: [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/file/678594bcff6f99f3b7a8ff459989b1a3-Paper-Conference.pdf)
+
+---
+
 ## What are Physics-Informed Neural Networks?
 
 Physics-Informed Neural Networks (PINNs) incorporate governing equations directly into the learning objective. Given a differential equation  
