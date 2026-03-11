@@ -6,6 +6,9 @@ main:
   - title: "Structure preservation"
     url: /sp/
 
+  - title: "INR/PINNs"
+    url: /inr-pinn/
+
   - title: "Data disaggregation"
     url: /dd/
 
