@@ -19,25 +19,10 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 **Structure-preserving dynamics modeling:** Develops machine learning models that embed physical laws, such as energy conservation and entropy production, directly into their architecture for stable and reliable long-term prediction. [[NeurIPS 2021](https://proceedings.neurips.cc/paper/2021/file/2d1bcedd27b586d2a9562a0f8e076b41-Paper.pdf),[MSML 2022](https://proceedings.mlr.press/v190/lee22a/lee22a.pdf),[NeurIPS 2023](https://proceedings.neurips.cc/paper_files/paper/2023/file/7903af0a1cffb43dbb2f8160d110a5f3-Paper-Conference.pdf),[ICLR 2025](https://openreview.net/pdf?id=uL1H29dM0c),[TMLR 2026](https://openreview.net/pdf?id=Qy3oLpRzpf)]  
 [Learn more →](/sp/)
 
+**Implicit neural representations (INRs)/physics-informed neural networks (PINNs)**: Develop continuous neural function representations for complex and structured signals, enabling resolution-independent modeling and principled learning under known constraints. [[AAAI 2021](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)]
+[Learn more →](/inr-pinn/)
 
 
-### Implicit Neural Representations (INRs) 
-
-INRs for PDE solutions or Physics-informed Neural Networks (PINNs)
-
-- W Cho, M Jo, H Lim, <b>K Lee</b>, D Lee, S Hong, N Park, Parameterized Physics-informed Neural Networks for Parameterized PDEs, ICML 2024 <span style="color:red">Oral</span>
-
-- W Cho, <b>K Lee</b>, D Rim, and N Park,  Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks, NeurIPS 2023 <span style="color:red">Spotlight</span> (to appear) [[Preprint]](https://arxiv.org/abs/2310.09528) [[Code]](https://github.com/WooJin-Cho/Hyper-LR-PINN)
-
-- J Kim, <b>K Lee</b>, D Lee, SY Jhin, and N Park, DPM: A novel training method for physics-informed neural networks in extrapolation, AAAI, 2021 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992)
-
-INR-based reduced-order modeling
-
-- T Wen, <b>K Lee</b>, and Y Choi, Reduced-order modeling for parameterized PDEs via implicit neural representations, NeurIPS 2023 Workshop on Machine Learning and the Physical Sciences 
-
-INR for periodic signals
-
-- W Cho, M Jo, <b>K Lee</b>, N Park, Neural functions for learning periodic signal, ICLR 2025
 
 ## News
 - Feb 2026: One paper accepted by Materials Today
