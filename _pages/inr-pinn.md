@@ -48,3 +48,12 @@ Authors: Woojin Cho, KL, [Donsub Rim](https://dsrim.github.io/), and [Noseong Pa
 Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/24f8dd1b8f154f1ee0d7a59e368eccf3-Paper-Conference.pdf)
 
 ---
+
+### • Parameterized Physics-informed Neural Networks for Parameterized PDEs (ICML 2024)
+
+Proposed Parameterized Physics-Informed Neural Networks (P²INNs), which incorporate latent parameter embeddings into PINNs to learn entire solution families of parameterized PDEs. Improved accuracy and generalization across varying parameter regimes compared to standard PINN approaches.
+
+Authors: Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and [Noseong Park](https://sites.google.com/view/noseong)  
+Paper: [[Paper]](https://proceedings.mlr.press/v235/cho24b.html)
+
+---
