@@ -33,7 +33,7 @@ This framework enables mesh-free solution of forward and inverse problems while 
 
 ### • DPM: A Novel Training Method for Physics-Informed Neural Networks in Extrapolation (AAAI 2021)
 
-Demonstrates that standard Physics-Informed Neural Networks (PINNs) struggle to extrapolate time-dependent nonlinear PDE solutions beyond the training domain. To address this limitation, this work introduces DPM, a new training strategy that significantly improves temporal extrapolation performance. 
+Demonstrated that standard Physics-Informed Neural Networks (PINNs) struggle to extrapolate time-dependent nonlinear PDE solutions beyond the training domain. To address this limitation, introduced DPM, a new training strategy that significantly improves temporal extrapolation performance. 
 
 Authors: Jungeun Kim, KL, Dongeun Lee, Sheo Yon Jhin, and [Noseong Park](https://sites.google.com/view/noseong)  
 Paper: [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
@@ -42,6 +42,7 @@ Paper: [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
 ### • Hypernetwork-based Meta-Learning for Low-Rank Physics-Informed Neural Networks (NeurIPS 2023)
 
+Introduced a hypernetwork-based meta-learning approach that generates low-rank physics-informed neural networks (PINNs) to efficiently solve parameterized PDEs. Improved computational efficiency and robustness while maintaining high accuracy across varying physical conditions.
 
 Authors: Woojin Cho, KL, [Donsub Rim](https://dsrim.github.io/), and [Noseong Park](https://sites.google.com/view/noseong)  
 Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/24f8dd1b8f154f1ee0d7a59e368eccf3-Paper-Conference.pdf)
