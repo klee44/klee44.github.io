@@ -29,6 +29,15 @@ Paper: [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/file/678594b
 
 ---
 
+### • PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling (NeurIPS 2025)
+
+Proposed Global Fourier Modulation (GFM) to mitigate spectral bias in implicit neural representations by injecting high-frequency structure at each layer. Introduced PDEfuncta, a meta-learning framework that enabled compact modeling of multiple solution fields and supported forward and inverse inference without retraining.
+
+Authors: Minju Jo, Woojin Cho, Uvini Balasuriya Mudiyanselage, Seungjun Lee, [Noseong Park](https://sites.google.com/view/noseong), and KL  
+Paper: [[Paper]](https://openreview.net/pdf?id=NfBrMDF0Xi)
+
+---
+
 ## What are Physics-Informed Neural Networks?
 
 Physics-Informed Neural Networks (PINNs) incorporate governing equations directly into the learning objective. Given a differential equation  
