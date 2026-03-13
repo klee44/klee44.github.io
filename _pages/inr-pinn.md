@@ -24,7 +24,7 @@ This function-space perspective enables resolution-independent modeling of high-
 
 Proposed a neural function architecture tailored for learning periodic signals with improved extrapolation performance. Explicitly extracted periodic structure from measurements and incorporated it into the representation, addressing the overfitting and limited generalization of coordinate-based MLPs. Demonstrated strong performance on periodic differential equation solutions as well as real-world time series interpolation and forecasting tasks.
 
-Authors: Woojin Cho, Minju Jo, KL, and [Noseong Park](https://sites.google.com/view/noseong)  
+Authors: [Woojin Cho](https://woojin-cho.github.io/), Minju Jo, KL, and [Noseong Park](https://sites.google.com/view/noseong)  
 Paper: [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/file/678594bcff6f99f3b7a8ff459989b1a3-Paper-Conference.pdf)
 
 ---
@@ -33,7 +33,7 @@ Paper: [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2025/file/678594b
 
 Proposed Global Fourier Modulation (GFM) to mitigate spectral bias in implicit neural representations by injecting high-frequency structure at each layer. Introduced PDEfuncta, a meta-learning framework that enabled compact modeling of multiple solution fields and supported forward and inverse inference without retraining.
 
-Authors: Minju Jo, Woojin Cho, Uvini Balasuriya Mudiyanselage, Seungjun Lee, [Noseong Park](https://sites.google.com/view/noseong), and KL  
+Authors: Minju Jo, [Woojin Cho](https://woojin-cho.github.io/), Uvini Balasuriya Mudiyanselage, Seungjun Lee, [Noseong Park](https://sites.google.com/view/noseong), and KL  
 Paper: [[Paper]](https://openreview.net/pdf?id=NfBrMDF0Xi)
 
 ---
@@ -65,7 +65,7 @@ Paper: [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16992/16799)
 
 Introduced a hypernetwork-based meta-learning approach that generates low-rank physics-informed neural networks (PINNs) to efficiently solve parameterized PDEs. Improved computational efficiency and robustness while maintaining high accuracy across varying physical conditions.
 
-Authors: Woojin Cho, KL, [Donsub Rim](https://dsrim.github.io/), and [Noseong Park](https://sites.google.com/view/noseong)  
+Authors: [Woojin Cho](https://woojin-cho.github.io/), KL, [Donsub Rim](https://dsrim.github.io/), and [Noseong Park](https://sites.google.com/view/noseong)  
 Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/24f8dd1b8f154f1ee0d7a59e368eccf3-Paper-Conference.pdf)
 
 ---
@@ -74,7 +74,7 @@ Paper: [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/24f8
 
 Proposed Parameterized Physics-Informed Neural Networks (P²INNs), which incorporate latent parameter embeddings into PINNs to learn entire solution families of parameterized PDEs. Improved accuracy and generalization across varying parameter regimes compared to standard PINN approaches.
 
-Authors: Woojin Cho, Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and [Noseong Park](https://sites.google.com/view/noseong)  
+Authors: [Woojin Cho](https://woojin-cho.github.io/), Minju Jo, Haksoo Lim, Kookjin Lee, Dongeun Lee, Sanghyun Hong, and [Noseong Park](https://sites.google.com/view/noseong)  
 Paper: [[Paper]](https://proceedings.mlr.press/v235/cho24b.html)
 
 ---
