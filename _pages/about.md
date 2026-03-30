@@ -25,6 +25,8 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 ## News
+- Mar 2025: Will be serving as an AC at <b>NeurIPS 2026</b>
+
 - Mar 2026: One paper accepted by IEEE/ACM Transactions on Networking
 
 - Feb 2026: One paper accepted by Materials Today
