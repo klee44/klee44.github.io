@@ -25,7 +25,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 ## News
-- May 2025: Two papers accepted at <b>ICML 2026</b>
+- May 2025: Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer
 
 - Apr 2025: Divesh and Ahmad successfully defended their master's theses. Congrats to all!
 
