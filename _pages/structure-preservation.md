@@ -82,12 +82,12 @@ Paper: [[Paper]](https://openreview.net/pdf?id=Qy3oLpRzpf)
 
 ---
 
-### • Meta-Learning Structure-Preserving Dynamics 
+### • Meta-Learning Structure-Preserving Dynamics (ICML 2026) 
 
 Introduced a modulation-based meta-learning framework for conservative and dissipative systems. The model adapts across parametric families without retraining while preserving physical structure exactly.
 
 Authors: Cheng Jing, Uvini Balasuriya Mudiyanselage, [Woojin Cho](https://woojin-cho.github.io/), Minju Jo, [Anthony Gruber](https://agrubertx.github.io/), KL  
-Paper: [[Paper]](https://arxiv.org/abs/2508.11205)
+Paper: [[Paper]](https://arxiv.org/abs/2508.11205)[[Project Page]](https://jessecj.me/research/mspd)
 
 ---
 

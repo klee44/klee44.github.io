@@ -25,6 +25,10 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 ## News
+- Jun 2025: Congrats to Fan, Jesse, and Xuanming on their summer internships at Siemens, Applied Materials, and Capital One.
+
+- May 2025: Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!
+
 - May 2025: Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer
 
 - Apr 2025: Divesh and Ahmad successfully defended their master's theses. Congrats to all!
