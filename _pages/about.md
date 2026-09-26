@@ -23,7 +23,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 [Learn more →](/inr-pinn/)
 
 
-**Neural operators**: Develop data-driven surrogate modeling of complex dynamics [[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/download/29036/29963),[ICLR 2024](https://proceedings.iclr.cc/paper_files/paper/2024/file/fe5d4bd3e2af823701b5d8f70a3c7602-Paper-Conference.pdf)[ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/file/c253f6fe5cc2bd1905427da63ac37917-Paper-Conference.pdf)]
+**Reduced-order models (ROMs)/Neural operators (NOs)**: Develop data-driven surrogate modeling of complex dynamics, NOs[[AAAI 2024](https://ojs.aaai.org/index.php/AAAI/article/download/29036/29963),[ICLR 2024](https://proceedings.iclr.cc/paper_files/paper/2024/file/fe5d4bd3e2af823701b5d8f70a3c7602-Paper-Conference.pdf)[ICLR 2026](https://proceedings.iclr.cc/paper_files/paper/2026/file/c253f6fe5cc2bd1905427da63ac37917-Paper-Conference.pdf)]
 
 
 ## Recent News
