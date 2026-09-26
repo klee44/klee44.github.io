@@ -24,7 +24,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 
-## Recent News
+## Selected News
 
 <style>
 .home-news .news-list {
@@ -45,6 +45,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 }
 
 .home-news time {
+  text-align: right;
   opacity: 0.65;
   white-space: nowrap;
   font-variant-numeric: tabular-nums;
@@ -71,28 +72,28 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 }
 </style>
 
-<div class="home-news">
+<div class="home-news" markdown="0">
   <!-- Always visible: first four news items. -->
   <ul class="news-list">
     <li>
-      <time>Jun 2026</time>
+      <time>Jun 2025</time>
       <span>Congrats to Fan, Jesse, and Xuanming on their summer internships at Siemens, Applied Materials, and Capital One.</span>
     </li>
     <li>
-      <time>May 2026</time>
+      <time>May 2025</time>
       <span>Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!</span>
     </li>
     <li>
-      <time>May 2026</time>
+      <time>May 2025</time>
       <span>Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer</span>
     </li>
     <li>
-      <time>Apr 2026</time>
+      <time>Apr 2025</time>
       <span>Divesh and Ahmad successfully defended their master's theses. Congrats to all!</span>
     </li>
   </ul>
 
-  <details>
+  <details markdown="0">
     <summary>More news</summary>
 
     <!-- Move an entire li block above to feature another news item. -->
