@@ -81,7 +81,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
     </li>
     <li>
       <time>Sep 2026</time>
-      <span>Received Korean Young Faculty Award (K-YFA) from [KOCSEA](https://www.kocseaa.org/v2/) </span>
+      <span>Received the KOCSEA Young Faculty Award (K-YFA) from <a href="https://www.kocseaa.org/v2/">KOCSEA</a>.</span>
     </li>
     <li>
       <time>Sep 2026</time>
@@ -89,7 +89,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
     </li>
     <li>
       <time>Sep 2026</time>
-      <span>Congrats to Jesse, and Xuanming on their Fall internships at NVIDIA and Amazon.</span>
+      <span>Congrats to Jesse and Xuanming on their Fall internships at NVIDIA and Amazon.</span>
     </li>
     <li>
       <time>Aug 2026</time>
