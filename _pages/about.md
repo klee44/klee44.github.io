@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research focuses on scientific machine learning, including data-driven surrogate modeling for fluid dynamics and plasma physics, neural representations of scientific fields, and physics-informed and structure-preserving modeling of dynamical systems. My work has been supported by the National Science Foundation (NSF), Sandia National Laboratories, Salt River Project (SRP), Honeywell, Applied Materials, and Meta. I received the NSF CAREER Award in 2024 and the KOCSEA Young Faculty Award (K-YFA) in 2026. <br/> 
+I am an assistant professor in [School of Computing and Augmented Intelligence](https://scai.engineering.asu.edu/) at [Arizona State University](https://www.asu.edu/). My research focuses on scientific machine learning, including data-driven surrogate modeling for fluid dynamics and plasma physics, neural representations of scientific fields, and physics-informed and structure-preserving modeling of dynamical systems. My work has been supported by the National Science Foundation (NSF), Sandia National Laboratories, Salt River Project (SRP), Honeywell, Applied Materials, and Meta. I received the [NSF CAREER Award](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2338909) in 2024 and the KOCSEA Young Faculty Award (K-YFA) in 2026. <br/> 
 
 <!-- <b>Open positions</b>: I am looking for self-motivated Ph.D. research assistants. Email me with your CV and a brief introduction of your research interests to kookjin.lee@asu.edu. --> 
 
@@ -78,6 +78,10 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
     <li>
       <time>Sep 2026</time>
       <span>One paper accepted at <b>NeurIPS 2026</b></span>
+    </li>
+    <li>
+      <time>Sep 2026</time>
+      <span>Received Korean Young Faculty Award (K-YFA) from [KOCSEA](https://www.kocseaa.org/v2/)</span>
     </li>
     <li>
       <time>Sep 2026</time>
