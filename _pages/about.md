@@ -24,81 +24,219 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 
-## News
-- Jun 2025: Congrats to Fan, Jesse, and Xuanming on their summer internships at Siemens, Applied Materials, and Capital One.
+## Recent News
 
-- May 2025: Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!
+<style>
+.home-news .news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
-- May 2025: Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer
+.home-news .news-list li {
+  display: grid;
+  grid-template-columns: 6.5em minmax(0, 1fr);
+  gap: 1em;
+  margin: 0;
+  padding: 0.8em 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+  font-size: 0.9em;
+  line-height: 1.6;
+}
 
-- Apr 2025: Divesh and Ahmad successfully defended their master's theses. Congrats to all!
+.home-news time {
+  opacity: 0.65;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
 
-- Mar 2025: Will be serving as an AC at <b>NeurIPS 2026</b>
+.home-news .news-list li > span {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
 
-- Mar 2026: One paper accepted by IEEE/ACM Transactions on Networking
+.home-news summary {
+  width: fit-content;
+  margin-top: 0.8em;
+  padding: 0.4em 0;
+  cursor: pointer;
+  font-size: 0.85em;
+}
 
-- Feb 2026: One paper accepted by Materials Today
+@media (max-width: 480px) {
+  .home-news .news-list li {
+    grid-template-columns: 5.5em minmax(0, 1fr);
+    gap: 0.65em;
+  }
+}
+</style>
 
-- Feb 2026: One paper accepted at <b>CVPR 2026</b>
+<div class="home-news">
+  <!-- Always visible: first four news items. -->
+  <ul class="news-list">
+    <li>
+      <time>Jun 2026</time>
+      <span>Congrats to Fan, Jesse, and Xuanming on their summer internships at Siemens, Applied Materials, and Capital One.</span>
+    </li>
+    <li>
+      <time>May 2026</time>
+      <span>Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!</span>
+    </li>
+    <li>
+      <time>May 2026</time>
+      <span>Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer</span>
+    </li>
+    <li>
+      <time>Apr 2026</time>
+      <span>Divesh and Ahmad successfully defended their master's theses. Congrats to all!</span>
+    </li>
+  </ul>
 
-- Feb 2026: One paper accepted by TMLR
+  <details>
+    <summary>More news</summary>
 
-- Jan 2026: One paper accepted at <b>ICLR 2026</b>
-
-- Nov 2025: Ray defended his master's thesis. Congrats! 
-
-- Sep 2025: Will be serving as an AC at <b>ICLR 2026</b>
-
-- Sep 2025: One paper accepted at <b>NeurIPS 2025</b>
-
-- Sep 2025: Uvini's poster got accepted at American Vacuum Society (AVS) 71, AI/ML for Scientific Discovery session. 
-
-- Aug 2025: Launching a new project with Salt River Project 
-
-- Jul 2025: One paper accepted at <b>AIES 2025</b>
-
-- Jun 2025: Guangting successfully defended his PhD defense. 
-
-- Apr 2025: Jamie, Rushir, and John successfully defended their master's theses. Congrats to all!
-
-- Feb 2025: One paper accepted at ICLR workshop (Workshop on Neural Network Weights as a New Data Modality) 
-
-- Feb 2025: One paper accepted by Results in Applied Mathematics 
-
-- Feb 2025: One paper accepted by Transactions on Machine Learning Research (TMLR) [[Paper]](https://openreview.net/pdf?id=hCxtlfvL22) 
-
-- Jan 2025: Three papers accebed at <b>ICLR 2025</b>
-
-- Nov 2024: Launching a new project with Applied Materials Inc. [[ASU article]](https://fullcircle.asu.edu/faculty/applying-new-ai-to-microelectronics-manufacturing/)[[ASU article #2]](https://news.asu.edu/20250428-science-and-technology-applying-ai-microelectronics-manufacturing)[[ASU article #3]](https://news.asu.edu/20250422-science-and-technology-applied-materials-invests-asu-advance-technology-brighter-future)
-
-- Nov 2024: One paper accepted by Journal of Geophysical Research: Machine Learning and Computation
-
-- Oct 2024: Two papers accepted at NeurIPS workshops (Machine Learning and the Physical Sciences and Foundation Models for Science) 
-
-- Sep 2024: One paper accepted by Materials Today (on the cover! [Cover image](/files/BFP-cover-materials-today.jpeg))  
-
-- Sep 2024: One paper accepted at <b>NeurIPS 2024</b>
-
-- Sep 2024: Gave a talk at DoMSS seminar in the School of Math and Stats (SoMSS) at ASU 
-
-- Jul 2024: Gave a talk at MINDS seminar in Dept of Math at Postech 
-
-- Jul 2024: One paper accepted at <b>CIKM 2024</b> (The first author, Fan Wu, received SIGWEB and NSF Travel Grant!)  
-
-- May 2024: One paper accepted at <b>ICML 2024</b> (selected for an [<span style="color:red">Oral</span> presentation](https://icml.cc/virtual/2024/session/35281))
-
-- Apr 2024: Received <b> NSF CAREER award </b> [[Award description]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338909) [[ASU article]](https://fullcircle.asu.edu/faculty/new-ai-for-a-new-era-of-discovery/) 
-
-- Mar 2024: One paper (Unsupervised Physics-informed Multimodal Learning) accepted by Foundations of Data Science (FoDS)
-
-- Mar 2024: One paper accepted at ICLR Workshop (Workshop on AI4DifferentialEquations in Science)
-
-- Feb 2024: Selected as one of the first teams for the inaugural [ASU AI Innovation Challenge (in collaboration with OpenAI)](https://news.asu.edu/20240118-university-news-new-collaboration-openai-charts-future-ai-higher-education)
-
-- Jan 2024: One paper accepted at <b>TheWebConf 2024</b>
-
-- Jan 2024: Two papers accepted at <b>ICLR 2024</b>.
-
-- Dec 2023: One paper accepted at <b>AAAI 2024</b>.
-
-- Dec 2023: Presented two papers (one splotlight) and two workshop papers at <b>NeurIPS 2023</b>.
+    <!-- Move an entire li block above to feature another news item. -->
+    <ul class="news-list">
+      <li>
+        <time>Mar 2025</time>
+        <span>Will be serving as an AC at <b>NeurIPS 2026</b></span>
+      </li>
+      <li>
+        <time>Mar 2026</time>
+        <span>One paper accepted by IEEE/ACM Transactions on Networking</span>
+      </li>
+      <li>
+        <time>Feb 2026</time>
+        <span>One paper accepted by Materials Today</span>
+      </li>
+      <li>
+        <time>Feb 2026</time>
+        <span>One paper accepted at <b>CVPR 2026</b></span>
+      </li>
+      <li>
+        <time>Feb 2026</time>
+        <span>One paper accepted by TMLR</span>
+      </li>
+      <li>
+        <time>Jan 2026</time>
+        <span>One paper accepted at <b>ICLR 2026</b></span>
+      </li>
+      <li>
+        <time>Nov 2025</time>
+        <span>Ray defended his master's thesis. Congrats!</span>
+      </li>
+      <li>
+        <time>Sep 2025</time>
+        <span>Will be serving as an AC at <b>ICLR 2026</b></span>
+      </li>
+      <li>
+        <time>Sep 2025</time>
+        <span>One paper accepted at <b>NeurIPS 2025</b></span>
+      </li>
+      <li>
+        <time>Sep 2025</time>
+        <span>Uvini's poster got accepted at American Vacuum Society (AVS) 71, AI/ML for Scientific Discovery session.</span>
+      </li>
+      <li>
+        <time>Aug 2025</time>
+        <span>Launching a new project with Salt River Project</span>
+      </li>
+      <li>
+        <time>Jul 2025</time>
+        <span>One paper accepted at <b>AIES 2025</b></span>
+      </li>
+      <li>
+        <time>Jun 2025</time>
+        <span>Guangting successfully defended his PhD defense.</span>
+      </li>
+      <li>
+        <time>Apr 2025</time>
+        <span>Jamie, Rushir, and John successfully defended their master's theses. Congrats to all!</span>
+      </li>
+      <li>
+        <time>Feb 2025</time>
+        <span>One paper accepted at ICLR workshop (Workshop on Neural Network Weights as a New Data Modality)</span>
+      </li>
+      <li>
+        <time>Feb 2025</time>
+        <span>One paper accepted by Results in Applied Mathematics</span>
+      </li>
+      <li>
+        <time>Feb 2025</time>
+        <span>One paper accepted by Transactions on Machine Learning Research (TMLR) <a href="https://openreview.net/pdf?id=hCxtlfvL22">[Paper]</a></span>
+      </li>
+      <li>
+        <time>Jan 2025</time>
+        <span>Three papers accebed at <b>ICLR 2025</b></span>
+      </li>
+      <li>
+        <time>Nov 2024</time>
+        <span>Launching a new project with Applied Materials Inc. <a href="https://fullcircle.asu.edu/faculty/applying-new-ai-to-microelectronics-manufacturing/">[ASU article]</a><a href="https://news.asu.edu/20250428-science-and-technology-applying-ai-microelectronics-manufacturing">[ASU article #2]</a><a href="https://news.asu.edu/20250422-science-and-technology-applied-materials-invests-asu-advance-technology-brighter-future">[ASU article #3]</a></span>
+      </li>
+      <li>
+        <time>Nov 2024</time>
+        <span>One paper accepted by Journal of Geophysical Research: Machine Learning and Computation</span>
+      </li>
+      <li>
+        <time>Oct 2024</time>
+        <span>Two papers accepted at NeurIPS workshops (Machine Learning and the Physical Sciences and Foundation Models for Science)</span>
+      </li>
+      <li>
+        <time>Sep 2024</time>
+        <span>One paper accepted by Materials Today (on the cover! <a href="/files/BFP-cover-materials-today.jpeg">Cover image</a>)</span>
+      </li>
+      <li>
+        <time>Sep 2024</time>
+        <span>One paper accepted at <b>NeurIPS 2024</b></span>
+      </li>
+      <li>
+        <time>Sep 2024</time>
+        <span>Gave a talk at DoMSS seminar in the School of Math and Stats (SoMSS) at ASU</span>
+      </li>
+      <li>
+        <time>Jul 2024</time>
+        <span>Gave a talk at MINDS seminar in Dept of Math at Postech</span>
+      </li>
+      <li>
+        <time>Jul 2024</time>
+        <span>One paper accepted at <b>CIKM 2024</b> (The first author, Fan Wu, received SIGWEB and NSF Travel Grant!)</span>
+      </li>
+      <li>
+        <time>May 2024</time>
+        <span>One paper accepted at <b>ICML 2024</b> (selected for an <a href="https://icml.cc/virtual/2024/session/35281"><span style="color:red">Oral</span> presentation</a>)</span>
+      </li>
+      <li>
+        <time>Apr 2024</time>
+        <span>Received <b> NSF CAREER award </b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338909">[Award description]</a> <a href="https://fullcircle.asu.edu/faculty/new-ai-for-a-new-era-of-discovery/">[ASU article]</a></span>
+      </li>
+      <li>
+        <time>Mar 2024</time>
+        <span>One paper (Unsupervised Physics-informed Multimodal Learning) accepted by Foundations of Data Science (FoDS)</span>
+      </li>
+      <li>
+        <time>Mar 2024</time>
+        <span>One paper accepted at ICLR Workshop (Workshop on AI4DifferentialEquations in Science)</span>
+      </li>
+      <li>
+        <time>Feb 2024</time>
+        <span>Selected as one of the first teams for the inaugural <a href="https://news.asu.edu/20240118-university-news-new-collaboration-openai-charts-future-ai-higher-education">ASU AI Innovation Challenge (in collaboration with OpenAI)</a></span>
+      </li>
+      <li>
+        <time>Jan 2024</time>
+        <span>One paper accepted at <b>TheWebConf 2024</b></span>
+      </li>
+      <li>
+        <time>Jan 2024</time>
+        <span>Two papers accepted at <b>ICLR 2024</b>.</span>
+      </li>
+      <li>
+        <time>Dec 2023</time>
+        <span>One paper accepted at <b>AAAI 2024</b>.</span>
+      </li>
+      <li>
+        <time>Dec 2023</time>
+        <span>Presented two papers (one splotlight) and two workshop papers at <b>NeurIPS 2023</b>.</span>
+      </li>
+    </ul>
+  </details>
+</div>
