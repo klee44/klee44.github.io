@@ -24,7 +24,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
 
 
-## Selected News
+## Recent News
 
 <style>
 .home-news .news-list {
@@ -81,7 +81,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
     </li>
     <li>
       <time>Sep 2026</time>
-      <span>Received Korean Young Faculty Award (K-YFA) from [KOCSEA](https://www.kocseaa.org/v2/)</span>
+      <span>Received Korean Young Faculty Award (K-YFA) from [KOCSEA](https://www.kocseaa.org/v2/) </span>
     </li>
     <li>
       <time>Sep 2026</time>
