@@ -76,20 +76,24 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
   <!-- Always visible: first four news items. -->
   <ul class="news-list">
     <li>
+      <time>Sep 2026</time>
+      <span>One paper accepted at <b>NeurIPS 2026</b></span>
+    </li>
+    <li>
+      <time>Sep 2026</time>
+      <span>One paper accepted at LoG conference 2026</span>
+    </li>
+    <li>
+      <time>Sep 2026</time>
+      <span>Congrats to Jesse, and Xuanming on their Fall internships at NVIDIA and Amazon.</span>
+    </li>
+    <li>
+      <time>Aug 2026</time>
+      <span>Will be serving as an AC at <b>ICLR 2027</b></span>
+    </li>
+    <li>
       <time>Jun 2026</time>
       <span>Received Google TPU support!</span>
-    </li>
-    <li>
-      <time>Jun 2026</time>
-      <span>Congrats to Fan, Jesse, and Xuanming on their summer internships at Siemens, Applied Materials, and Capital One.</span>
-    </li>
-    <li>
-      <time>May 2026</time>
-      <span>Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!</span>
-    </li>
-    <li>
-      <time>May 2026</time>
-      <span>Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer</span>
     </li>
   </ul>
 
@@ -98,6 +102,18 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
 
     <!-- Move an entire li block above to feature another news item. -->
     <ul class="news-list">
+      <li>
+        <time>Jun 2026</time>
+        <span>Congrats to Fan, Jesse, and Xuanming on their Summer internships at Siemens, Applied Materials, and Capital One.</span>
+      </li>
+      <li>
+        <time>May 2026</time>
+        <span>Fan, Jesse, and Sohyeon have advanced to doctoral candidacy. Congrats to all!</span>
+      </li>
+      <li>
+        <time>May 2026</time>
+        <span>Two papers accepted at <b>ICML 2026</b>, recognized as a gold reviewer</span>
+      </li>
       <li>
         <time>Apr 2026</time>
         <span>Divesh and Ahmad successfully defended their master's theses. Congrats to all!</span>
