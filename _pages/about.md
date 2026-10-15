@@ -79,7 +79,7 @@ I am an assistant professor in [School of Computing and Augmented Intelligence](
   <ul class="news-list">
     <li>
       <time>Sep 2026</time>
-      <span>One paper accepted at <b>NeurIPS 2026</b></span>
+      <span>One paper accepted at <b>NeurIPS 2026</b>, recognized as a top AC reviewer</span>
     </li>
     <li>
       <time>Sep 2026</time>
